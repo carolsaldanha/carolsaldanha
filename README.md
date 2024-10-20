@@ -5,7 +5,7 @@ Estudante de análise e desenvolvimento de sistemas.
 ## Conecte-se comigo
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:carolsaldanha44@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/caroline-saldanha-998345255/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/caroline-costa-saldanha-998345255/)
 
 ## Linguagens e Ferramentas
 
