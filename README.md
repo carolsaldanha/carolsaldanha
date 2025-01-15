@@ -1,6 +1,6 @@
 # Caroline Costa Saldanha
 
-Estudante de análise e desenvolvimento de sistemas e desenvolvedora back-end.
+Estudante de análise e desenvolvimento de sistemas com foco na carreira de dados.
 
 ## Conecte-se comigo
 
