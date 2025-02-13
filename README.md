@@ -1,5 +1,3 @@
-# Caroline Costa Saldanha
-
 ## 👋 Olá! Eu sou a Caroline  
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **análise de dados**.
