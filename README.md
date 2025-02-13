@@ -1,6 +1,6 @@
-## 👋 Olá! Eu sou a Caroline  
+## Olá! Eu sou a Caroline  
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **análise de dados**.
+Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **análise de dados**.
 
 ## Conecte-se comigo
 
