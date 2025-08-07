@@ -16,7 +16,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** com foco em **análise d
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
 
 ## Certificações
-<img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150">
+<img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120">
 
 ### GitHub Stats
 
