@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Caroline  
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **análise de dados**.
+Estudante de **Análise e Desenvolvimento de Sistemas** com foco em **análise de dados**.
 
 ## Conecte-se comigo
 
@@ -12,9 +12,11 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **análise 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=database&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## Certificações
+<img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150">
 
 ### GitHub Stats
 
