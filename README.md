@@ -84,11 +84,8 @@
     </div>
 </div>
 
-
 <br><br>
-<div align="center">
-    <img src="https://github-contributions-api.jgraciano.vercel.app/api?username=carolsaldanha&theme=dark&bg_color=282a3c&title_color=bf82ff&color=a56ee1&area_color=7e70ba&hide_title=true&hide_border=true" />
-</div>
+
 
 <br>
 
