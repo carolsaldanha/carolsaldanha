@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF69B4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=a56ee1"/>
 <br> 
 
 <div align="center"> 
@@ -9,30 +9,54 @@
 
 <br>
 
+<p align="center">
+    Sou Caroline, entusiasta de dados focada em transformar informações em valor.
+</p>
+
+<br>
+
+<div align="center">
+    <img src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif" alt="Lofi City Night Pixel Art" width="50%">
+</div>
+
+<br>
+
 <div align="left">
-    <h2> Sobre mim</h2>
+    <h2> Sobre Mim</h2>
     <ul> 
         <li><b> Formação:</b> Sistemas de Informação e Análise e desenvolvimento de Sistemas</li>
         <li><b> Interesses:</b> Tecnologia, análise de dados, engenharia de dados e IA</li>
         <li><b> Foco:</b> Power BI, SQL, Python</li>
     </ul>
-    <br>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif" alt="Lofi City Night Pixel Art" width="50%">
 </div>
 
+<br>
+
 <div align="left">
-    <h2> Tech Stacks</h2>
+    <h2>🛠️ Tech Stacks</h2>
     <p align="left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="30px" style="padding: 0 10px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="30px" style="padding: 0 10px;" />     
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black" title="Power BI" alt="Power BI" height="30px" style="padding: 0 10px;" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" title="AWS" alt="AWS" height="30px" style="padding: 0 10px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="30px" style="padding: 0 10px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30px" style="padding: 0 10px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30px" style="padding: 0 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40px" style="padding: 0 25px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40px" style="padding: 0 25px;" />     
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black" title="Power BI" alt="Power BI" height="40px" style="padding: 0 25px;" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" title="AWS" alt="AWS" height="40px" style="padding: 0 25px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="40px" style="padding: 0 25px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40px" style="padding: 0 25px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40px" style="padding: 0 25px;" />
     </p>
+</div>
+
+<br>
+
+<div align="left">
+    <h2>⭐ Projetos de Destaque</h2>
+    <ul>
+        <li>
+            <a href="LINK_DO_SEU_PROJETO_1">Análise de Vendas com Power BI</a>: Dashboard interativo mostrando KPIs de mercado e projeções.
+        </li>
+        <li>
+            <a href="LINK_DO_SEU_PROJETO_2">Pipeline ETL em Python/SQL</a>: Automação da extração e limpeza de dados utilizando Pandas e inserção em banco de dados relacional.
+        </li>
+    </ul>
 </div>
 
 <br>
@@ -41,7 +65,7 @@
     <h2> Conect with me!!</h2>
     <p align="left">
         <a href="https://mail.google.com/mail/?view=cm&fs=1&to=carolinesaldanha44@gmail.com" title="Gmail">
-            <img src="https://img.shields.io/badge/-Gmail-DF0174?style=flat-square&labelColor=DF0174&logo=gmail&logoColor=white&link=ingridguimaraes597@gmail.com" alt="Gmail"/>
+            <img src="https://img.shields.io/badge/-Gmail-DF0174?style=flat-square&labelColor=DF0174&logo=gmail&logoColor=white&link=carolinesaldanha44@gmail.com" alt="Gmail"/>
         </a>
         <a href="https://www.linkedin.com/in/carolinesaldanhas" title="LinkedIn">
             <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
@@ -55,23 +79,17 @@
     <h2> GitHub Stats</h2>
 <br>
     <div style="display: flex">
-        <img src="https://github-readme-stats.vercel.app/api?username=carolsaldanhah&show_icons=true&theme=radical" width="45%" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridVih&layout=compact&langs_count=6&theme=radical" width="38%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=carolsaldanha&theme=transparent&bg_color=282a3c&border_color=7e70ba&show_icons=true&icon_color=bf82ff&title_color=bf82ff&text_color=ffffff" width="45%" />      
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolsaldanha&layout=compact&bg_color=282a3c&border_color=7e70ba&title_color=bf82ff&text_color=ffffff" width="40%" />
     </div>
 </div>
 
 
 <br><br>
-
 <div align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=IngridVih&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true"/>
-    </a>
-    
-<br><br>
-
+    <img src="https://github-contributions-api.jgraciano.vercel.app/api?username=carolsaldanha&theme=dark&bg_color=282a3c&title_color=bf82ff&color=a56ee1&area_color=7e70ba&hide_title=true&hide_border=true" />
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a56ee1&height=100&section=footer"/>
