@@ -1,39 +1,77 @@
-## Olá! Eu sou a Caroline  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF69B4"/>
+<br> 
 
-Estudante de **Análise e Desenvolvimento de Sistemas** com foco em **análise de dados**.
+<div align="center"> 
+    <a href="https://git.io/typing-svg"> 
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=c8abf1&width=435&lines=Hi!+I'm+Caroline;Welcome+to+my+portfolio!+%F0%9F%92%9C" alt="Typing SVG" />  
+    </a>
+</div>
 
-## Conecte-se comigo
+<br>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:carolinesaldanha44@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/carolinesaldanha/)
+<div align="left">
+    <h2> Sobre mim</h2>
+    <ul> 
+        <li><b> Formação:</b> Sistemas de Informação e Análise e desenvolvimento de Sistemas</li>
+        <li><b> Interesses:</b> Tecnologia, análise de dados, engenharia de dados e IA</li>
+        <li><b> Foco:</b> Power BI, SQL, Python</li>
+    </ul>
+    <br>
 
-## Linguagens e Ferramentas
+<div align="center">
+  <img src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif" alt="Lofi City Night Pixel Art" width="50%">
+</div>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=database&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
+<div align="left">
+    <h2> Tech Stacks</h2>
+    <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="30px" style="padding: 0 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="30px" style="padding: 0 10px;" />     
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black" title="Power BI" alt="Power BI" height="30px" style="padding: 0 10px;" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" title="AWS" alt="AWS" height="30px" style="padding: 0 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="30px" style="padding: 0 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30px" style="padding: 0 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30px" style="padding: 0 10px;" />
+    </p>
+</div>
 
-## Certificações
-<img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120">
+<br>
 
-### GitHub Stats
+<div align="left">
+    <h2> Conect with me!!</h2>
+    <p align="left">
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=carolinesaldanha44@gmail.com" title="Gmail">
+            <img src="https://img.shields.io/badge/-Gmail-DF0174?style=flat-square&labelColor=DF0174&logo=gmail&logoColor=white&link=ingridguimaraes597@gmail.com" alt="Gmail"/>
+        </a>
+        <a href="https://www.linkedin.com/in/carolinesaldanhas" title="LinkedIn">
+            <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+    </p>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolsaldanha&theme=transparent&bg_color=000&border_color=f542c2&show_icons=true&icon_color=f542c2&title_color=f542c2&text_color=FFF)
+<br>
+
+<div align="left">
+    <h2> GitHub Stats</h2>
+<br>
+    <div style="display: flex">
+        <img src="https://github-readme-stats.vercel.app/api?username=carolsaldanhah&show_icons=true&theme=radical" width="45%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridVih&layout=compact&langs_count=6&theme=radical" width="38%" />
+    </div>
+</div>
 
 
-<!--
-**carolsaldanha/carolsaldanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
 
-Here are some ideas to get you started:
+<div align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=IngridVih&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true"/>
+    </a>
+    
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
