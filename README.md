@@ -64,10 +64,10 @@
 <div align="left">
     <h2> Conect with me!!</h2>
     <p align="left">
-        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=carolinesaldanha44@gmail.com" title="Gmail">
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=carolinesaldanha44@gmail.com" title="Gmail" height="40px">
             <img src="https://img.shields.io/badge/-Gmail-DF0174?style=flat-square&labelColor=DF0174&logo=gmail&logoColor=white&link=carolinesaldanha44@gmail.com" alt="Gmail"/>
         </a>
-        <a href="https://www.linkedin.com/in/carolinesaldanhas" title="LinkedIn">
+        <a href="https://www.linkedin.com/in/carolinesaldanha" title="LinkedIn" height="40px">
             <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
     </p>
