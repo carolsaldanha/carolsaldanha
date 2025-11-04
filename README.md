@@ -51,10 +51,7 @@
     <h2>⭐ Projetos de Destaque</h2>
     <ul>
         <li>
-            <a href="LINK_DO_SEU_PROJETO_1">Análise de Vendas com Power BI</a>: Dashboard interativo mostrando KPIs de mercado e projeções.
-        </li>
-        <li>
-            <a href="LINK_DO_SEU_PROJETO_2">Pipeline ETL em Python/SQL</a>: Automação da extração e limpeza de dados utilizando Pandas e inserção em banco de dados relacional.
+            <a href="(https://github.com/carolsaldanha/Dashboard_Comercial)">Análise de Vendas com Power BI</a>: Dashboard interativo mostrando uma visão executiva e analítica das principais métricas de vendas e receita da empresa.
         </li>
     </ul>
 </div>
