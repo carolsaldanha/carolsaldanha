@@ -51,7 +51,7 @@
     <h2>⭐ Projetos de Destaque</h2>
     <ul>
         <li>
-            <a href="(https://github.com/carolsaldanha/Dashboard_Comercial)">Análise de Vendas com Power BI</a>: Dashboard interativo mostrando uma visão executiva e analítica das principais métricas de vendas e receita da empresa.
+            <a href="https://github.com/carolsaldanha/Dashboard_Comercial">Análise de Vendas com Power BI</a>: Dashboard interativo mostrando uma visão executiva e analítica das principais métricas de vendas e receita da empresa.
         </li>
     </ul>
 </div>
